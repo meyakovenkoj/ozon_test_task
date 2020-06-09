@@ -1,4 +1,4 @@
-# Intership task №1
+# Internship task №1
 
 ## Task
 
@@ -10,4 +10,3 @@ Probability of `решка` set as dict: `{0: 0.5, 1: 1, 2:0.7, 3:0.5, 4:0, 5:0.
 ```bash
 python3 flip_coin.py
 ```
-
